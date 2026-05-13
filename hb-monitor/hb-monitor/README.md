@@ -1,17 +1,4 @@
 # Non-Invasive Hemoglobin Monitor
-# Non-Invasive Hemoglobin Monitor
-
-![Full Setup](images/setup.jpeg)
-
-> Full hardware setup — Arduino Uno, MAX30102, 1.3" OLED, SPDT switch
-
-## Result on OLED
-
-![OLED Reading](images/oled_result.jpeg)
-
-## Correct Finger Placement
-
-![Finger Placement](images/finger.jpeg)
 
 An Arduino-based non-invasive hemoglobin (Hb) estimator using the MAX30102 pulse oximeter sensor and a 1.3" OLED display. Estimates blood hemoglobin concentration in g/dL using an AC/DC photoplethysmography (PPG) ratio and a polynomial regression model.
 
